@@ -21,8 +21,8 @@
 ~~~
 /*
 Program to implement the sigmoid activation function in a feed forward ANN.
-Developed by:
-RegisterNumber:  
+Developed by: Surendar S
+RegisterNumber: 21222023051
 */
 import numpy as np
 X=np.array(([2,9],[1,5],[3,6]),dtype=float)
