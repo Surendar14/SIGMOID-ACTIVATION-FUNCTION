@@ -70,7 +70,7 @@ print("Predicted Output:\n"+str(output))
 ~~~
 
 ## Output:
-![Screenshot from 2022-05-16 09-32-56](https://user-images.githubusercontent.com/75235759/168517912-7f1cc206-4790-4a58-95a1-f78552283e89.png)
+![Screenshot from 2022-05-16 09-36-36](https://user-images.githubusercontent.com/75235759/168518803-40e641d4-62ca-43b6-a980-9068a2e0f2c2.png)
 
 
 ## Result:
