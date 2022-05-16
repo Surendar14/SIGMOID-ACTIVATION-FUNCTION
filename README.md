@@ -18,12 +18,12 @@
 4.
 
 ## Program:
+~~~
 /*
 Program to implement the sigmoid activation function in a feed forward ANN.
 Developed by:
 RegisterNumber:  
 */
-~~
 import numpy as np
 X=np.array(([2,9],[1,5],[3,6]),dtype=float)
 y=np.array(([92],[86],[89]),dtype=float)
@@ -67,7 +67,7 @@ wh+=X.T.dot(d_hiddenlayer)*lr
 print("Input:\n"+str(X))
 print("Actual Output:\n"+str(y))
 print("Predicted Output:\n"+str(output))
-~~~~
+~~~
 
 ## Output:
 ![ouput screenshot](XXX.png)
