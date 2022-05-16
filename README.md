@@ -70,7 +70,7 @@ print("Predicted Output:\n"+str(output))
 ~~~
 
 ## Output:
-![ouput screenshot](XXX.png)
+![Screenshot from 2022-05-16 09-32-56](https://user-images.githubusercontent.com/75235759/168517912-7f1cc206-4790-4a58-95a1-f78552283e89.png)
 
 
 ## Result:
